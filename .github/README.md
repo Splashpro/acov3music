@@ -9,7 +9,7 @@
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Splashpro/acov3music/edit/master/.github/README.md)
 
 
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/Splashpro/acov3music
